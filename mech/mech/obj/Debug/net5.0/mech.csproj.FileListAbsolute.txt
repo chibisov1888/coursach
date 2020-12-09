@@ -1,0 +1,16 @@
+/home/egor/RiderProjects/mech/mech/bin/Debug/net5.0/mech
+/home/egor/RiderProjects/mech/mech/bin/Debug/net5.0/mech.deps.json
+/home/egor/RiderProjects/mech/mech/bin/Debug/net5.0/mech.runtimeconfig.json
+/home/egor/RiderProjects/mech/mech/bin/Debug/net5.0/mech.runtimeconfig.dev.json
+/home/egor/RiderProjects/mech/mech/bin/Debug/net5.0/mech.dll
+/home/egor/RiderProjects/mech/mech/bin/Debug/net5.0/ref/mech.dll
+/home/egor/RiderProjects/mech/mech/bin/Debug/net5.0/mech.pdb
+/home/egor/RiderProjects/mech/mech/obj/Debug/net5.0/mech.csprojAssemblyReference.cache
+/home/egor/RiderProjects/mech/mech/obj/Debug/net5.0/mech.GeneratedMSBuildEditorConfig.editorconfig
+/home/egor/RiderProjects/mech/mech/obj/Debug/net5.0/mech.AssemblyInfoInputs.cache
+/home/egor/RiderProjects/mech/mech/obj/Debug/net5.0/mech.AssemblyInfo.cs
+/home/egor/RiderProjects/mech/mech/obj/Debug/net5.0/mech.csproj.CoreCompileInputs.cache
+/home/egor/RiderProjects/mech/mech/obj/Debug/net5.0/mech.dll
+/home/egor/RiderProjects/mech/mech/obj/Debug/net5.0/ref/mech.dll
+/home/egor/RiderProjects/mech/mech/obj/Debug/net5.0/mech.pdb
+/home/egor/RiderProjects/mech/mech/obj/Debug/net5.0/mech.genruntimeconfig.cache
